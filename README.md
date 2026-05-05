@@ -1,4 +1,4 @@
-# Ideathon
+# AIventory
 
 ## Overview
 This repository is a collection of data science and AI experiments, featuring a complete Machine Learning pipeline for **Walmart stock price prediction**. It covers data cleaning, building and training an ML model, and deploying evaluation scripts. Future goals include adding an AI chatbot to further enrich interactive capabilities.
